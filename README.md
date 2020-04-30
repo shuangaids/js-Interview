@@ -1359,3 +1359,6 @@ Object.propertyIsEnumerable( ) 是否可以通过for/in循环看到属性
 Object.toLocaleString( ) 返回对象的本地字符串表示 
 Object.toString( ) 定义一个对象的字符串表示 
 Object.valueOf( ) 指定对象的原始值
+
+vue面试题库
+https://www.cnblogs.com/jiajiamiao/p/11609335.html
